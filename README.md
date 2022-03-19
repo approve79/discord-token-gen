@@ -1,6 +1,6 @@
 Request based discord account creator.
 
-STILL NOT PATCHED OF THE 16/2/22
+STILL NOT PATCHED OF THE 19/2/22
 
 - Request based
 - Captcha bypass
